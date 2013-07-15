@@ -1,2 +1,2 @@
-de.vogella.git.first
+de.vogella.git.second
 ====================
