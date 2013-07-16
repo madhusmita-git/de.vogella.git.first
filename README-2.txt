@@ -1,4 +1,4 @@
 de.vogella.git.second
 -------------------
 
-second read me file
+2nd branch text read me file
